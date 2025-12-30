@@ -129,5 +129,8 @@ return {
     ["DeviceEmulationService"] = 'game:GetService("DeviceEmulationService")',
     ["AvatarCreationService"] = 'game:GetService("AvatarCreationService")',
     ["UGCValidationService"] = 'game:GetService("UGCValidationService")',
-    ["PlayerEmulatorService"] = 'game:GetService("PlayerEmulatorService")'
+    ["PlayerEmulatorService"] = 'game:GetService("PlayerEmulatorService")',
+    ["ExperienceNotificationService"] = 'game:GetService("ExperienceNotificationService")',
+    ["StudioDeviceEmulatorService"] = 'game:GetService("StudioDeviceEmulatorService")',
+    ["LSPService"] = 'game:GetService("LSPService")'
 }
