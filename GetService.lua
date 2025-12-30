@@ -120,5 +120,6 @@ return {
     ["RetargetingService"] = 'game:GetService("RetargetingService")',
     ["SpeechRecognitionService"] = 'game:GetService("SpeechRecognitionService")',
     ["DeviceService"] = 'game:GetService("DeviceService")',
-    ["LocalizationPlugin"] = 'game:GetService("LocalizationPlugin")'
+    ["LocalizationPlugin"] = 'game:GetService("LocalizationPlugin")',
+    ["VirtualUser"] = 'game:GetService("VirtualUser")',
 }
