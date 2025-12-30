@@ -158,5 +158,12 @@ return {
     ["BugReporterService"] = 'game:GetService("BugReporterService")', 
     ["BulkImportService"] = 'game:GetService("BulkImportService")',
     ["CacheableContentProvider"] = 'game:GetService("CacheableContentProvider")',
-    ["CalloutService"] = gmg
+    ["CalloutService"] = 'game:GetService("CalloutService")',
+    ["ChatbotUIService"] = 'game:GetService("ChatbotUIService")',
+    ["CloudCRUDService"] = 'game:GetService("CloudCRUDService")',
+    ["ClusterPacketCache"] = 'game:GetService("ClusterPacketCache")',
+    ["CollaboratorsService"] = 'game:GetService("CollaboratorsService")',
+    ["CommandService"] = 'game:GetService("CommandService")',
+    ["CommerceService"] = 'game:GetService("CommerceService")',
+    ["ConfigService"] = 'game:GetService("ConfigService")'
 }
