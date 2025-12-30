@@ -122,4 +122,12 @@ return {
     ["DeviceService"] = 'game:GetService("DeviceService")',
     ["LocalizationPlugin"] = 'game:GetService("LocalizationPlugin")',
     ["VirtualUser"] = 'game:GetService("VirtualUser")',
+    ["VoiceChatService"] = 'game:GetService("VoiceChatService")',
+    ["CaptureService"] = 'game:GetService("CaptureService")',
+    ["SafetyService"] = 'game:GetService("SafetyService")',
+    ["ExperienceInviteService"] = 'game:GetService("ExperienceInviteService")',
+    ["DeviceEmulationService"] = 'game:GetService("DeviceEmulationService")',
+    ["AvatarCreationService"] = 'game:GetService("AvatarCreationService")',
+    ["UGCValidationService"] = 'game:GetService("UGCValidationService")',
+    ["PlayerEmulatorService"] = 'game:GetService("PlayerEmulatorService")'
 }
